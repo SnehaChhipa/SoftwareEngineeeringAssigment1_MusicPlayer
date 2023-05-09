@@ -1,0 +1,3 @@
+/Users/snehachhipa/Documents/College/FirstYear/SpringTrimester /COMP10050-SoftwEngProj/Assignment1_22320616/cmake-build-debug-coverage/CMakeFiles/Assignment1.dir
+/Users/snehachhipa/Documents/College/FirstYear/SpringTrimester /COMP10050-SoftwEngProj/Assignment1_22320616/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/snehachhipa/Documents/College/FirstYear/SpringTrimester /COMP10050-SoftwEngProj/Assignment1_22320616/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+# ninja log v5
+2	134	1675958747088652467	CMakeFiles/Assignment1.dir/main.c.o	26b22ec628b9e3cb
+134	172	1675958747128828527	Assignment1	7c9c3bf5718bb317
+0	30	1677496919683855345	CMakeFiles/Assignment1.dir/main.c.o	e98eabda275b537a
+1	40	1677496919694185082	CMakeFiles/Assignment1.dir/inputFunction.c.o	9d186f40b4aee897
+1	42	1677496919695498586	CMakeFiles/Assignment1.dir/sort.c.o	9111fe9a1b86eb24
+1	46	1677496919699468597	CMakeFiles/Assignment1.dir/shuffle.c.o	8e7071ad691b955c
+46	72	1677496919727100089	Assignment1	86e2fc714aaabbef
+0	137	1677497359956377257	CMakeFiles/Assignment1.dir/inputFunction.c.o	9d186f40b4aee897
+1	138	1677497359956378048	CMakeFiles/Assignment1.dir/shuffle.c.o	8e7071ad691b955c
+1	138	1677497359956377715	CMakeFiles/Assignment1.dir/sort.c.o	9111fe9a1b86eb24
+138	175	1677497359995121572	Assignment1	86e2fc714aaabbef
+0	132	1677497791497254614	CMakeFiles/Assignment1.dir/shuffle.c.o	8e7071ad691b955c
+132	167	1677497791533624797	Assignment1	86e2fc714aaabbef
+0	34	1677497839258173835	CMakeFiles/Assignment1.dir/shuffle.c.o	8e7071ad691b955c
+34	60	1677497839284771533	Assignment1	86e2fc714aaabbef

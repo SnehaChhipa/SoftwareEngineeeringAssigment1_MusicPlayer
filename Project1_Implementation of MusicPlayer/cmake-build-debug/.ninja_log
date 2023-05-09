@@ -1,0 +1,7 @@
+# ninja log v5
+38	67	1677331658710249762	Assignment1	f686b7b7a2da3f9b
+0	162	1677328431844680245	CMakeFiles/Assignment1.dir/main.c.o	cd4383ea7ead3a80
+0	46	1677496914747538520	build.ninja	6a3ad2580fa59dff
+1	33	1677331658676173616	CMakeFiles/Assignment1.dir/sort.c.o	aea0293d1e97b90
+0	162	1677328431844661829	CMakeFiles/Assignment1.dir/inputFunction.c.o	4997da802f767b0
+1	38	1677331658680524463	CMakeFiles/Assignment1.dir/shuffle.c.o	719e7a3dded8a70a
